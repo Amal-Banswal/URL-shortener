@@ -1,4 +1,4 @@
-# 🔗 URL Shortener with AI Suggestions (MERN + Groq API)
+# 🔗 AI-Powered URL Shortener (MERN + Groq API)
 
 A full-stack web application to shorten long URLs into clean, shareable links — powered by **React**, **Node.js**, **Express**, **MongoDB Atlas**, and **Groq AI API** for intelligent short-link suggestions.
 
